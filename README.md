@@ -66,7 +66,7 @@ This python script is developed for probiotic species detection from metagenomic
 
 
 
-[__Output format__]
+[__Output__]
 	
 	1.Identification
 		
