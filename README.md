@@ -34,8 +34,8 @@ APD.py ver 1.0
 		tar -zxvf 23_proportion_database_bowtie2_index.tar.gz -C Database/proportion
 		
 		(for Ion Torrent platform)
-		tar -zxvf 132_reference_database_TMAP_index.tar.gz
-		tar -zxvf 23_proportion_database_TMAP_index.tar.gz
+		tar -zxvf 132_reference_database_TMAP_index.tar.gz -C Database
+		tar -zxvf 23_proportion_database_TMAP_index.tar.gz -C Database/proportion
 
 
 [Basic Usage]
@@ -46,7 +46,7 @@ APD.py ver 1.0
     
   	2. Select analysis. 
 		
-		"database(identification or proportion):" --> Select the Analysis. (Example: identification)
+		"Analysis (identification or proportion):" --> Select type the Analysis. (Example: identification)
     
   	3. Select Sequencing Platform (Current support Illumina, Ion torrent)
 		
