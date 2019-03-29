@@ -15,7 +15,7 @@ APD.py #ver 1.0
 	- bedtools	(https://bedtools.readthedocs.io/en/latest/)
 	- TMAP  	(https://github.com/iontorrent/TS/tree/master/Analysis/TMAP) * for Ion Torrent platform
 	
-	* Path of all program have to be added to System Path.
+	# Path of all program have to be added to System Path.
 	
   
 [Installation]
