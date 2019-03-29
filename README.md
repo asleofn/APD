@@ -19,7 +19,7 @@ APD.py #ver 1.0
   
 [Installation]
 
-1. Download pre-builted database.
+1. Download pre-builted index database.
 	
 	- Identification for Illumina : https://drive.google.com/open?id=1KrAzIApnJVQjNdeYn5NYsuw0_Ib9naxp
 	- Identification for Ion Torrent : https://drive.google.com/open?id=1Eg0rbzHjEjyj9myhMeHPFK0V70e_PycV
