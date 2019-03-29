@@ -19,7 +19,7 @@ APD.py ver 1.0
   
 [Installation]
   1. Download pre-builted database.
-    - Identification for Illumina : https://drive.google.com/open?id=1KrAzIApnJVQjNdeYn5NYsuw0_Ib9naxp
+    - Identification for Illumina : https://drive.google.com/open?id=1KrAzIApnJVQjNdeYn5NYsuw0_Ib9naxp<\n>
     - Identification for Ion Torrent : https://drive.google.com/open?id=1Eg0rbzHjEjyj9myhMeHPFK0V70e_PycV
     - Proportion for Illumina : https://drive.google.com/open?id=1exQu0AWnfcD8k7BOthGbGxERp_3voICj
     - Proportion for Ion Torrent : https://drive.google.com/open?id=1_zETO4W1KScaK4TRxYo8gG1teFzcfoV3
