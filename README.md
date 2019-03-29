@@ -76,7 +76,6 @@ APD.py #ver 1.0
 	52829,Lactobacillus_helveticus,GCF_000525715.1 		0.935566
 	53113,Lactobacillus_paracasei,GCF_001514415.1 		0.809714
 	53140,Lactobacillus_reuteri,GCF_001046835.1 		0.804741
-	genome			0.691595
 	49823,Lactococcus_lactis,GCF_000006865.1 		0.350231
 	
 	...
@@ -84,8 +83,8 @@ APD.py #ver 1.0
 	Column 1 : Representative strain of LAB
 	Column 2 : mapping coverage
 	
-	mapping coverage > 0.7137, it is judged to be identified.
-	*In the above example, L.lactis is not included in the product (mapping coverage : 0.350231 < 0.7137).
+	* mapping coverage > 0.7137, it is judged to be identified.
+	* In the above example, L.lactis is not included in the product (mapping coverage : 0.350231 < 0.7137).
 	
 	2.Proportion
 	
