@@ -1,10 +1,11 @@
 # APD (Advanced Probiotics species Detection)
 
-APD.py ver 1.0
+APD.py #ver 1.0
 
 [Getting Started]
 
 	- This text file describes the source code of the pipeline for the detection of LAB in probiotic products.
+
 
 [Prerequisites]
 
@@ -60,6 +61,7 @@ APD.py ver 1.0
 		
 		"fastq_1 dir:" --> Select forward fastq file.(Example: probiotics_product_A_1.fastq)
 		"fastq_2 dir:" --> Select reverse fastq file.(Example: probiotics_product_A_2.fastq)
+
 
 [Output format]
 	
