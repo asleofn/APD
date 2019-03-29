@@ -15,7 +15,7 @@ This python script is developed for probiotic species detection from metagenomic
 	- bedtools	(https://bedtools.readthedocs.io/en/latest/)
 	- TMAP  	(https://github.com/iontorrent/TS/tree/master/Analysis/TMAP) * for Ion Torrent platform
 	
-	 # Executables of all program have to be added to System Path.
+	 # Executables of all program have to be added to ystem Path.
 	
   
 [__Installation__]
