@@ -20,10 +20,10 @@ APD.py ver 1.0
 
 	1. Download pre-builted database.
 	
-		- Identification for Illumina : https://drive.google.com/open?id=1KrAzIApnJVQjNdeYn5NYsuw0_Ib9naxp<\n>
-		- Identification for Ion Torrent : https://drive.google.com/open?id=1Eg0rbzHjEjyj9myhMeHPFK0V70e_PycV
-		- Proportion for Illumina : https://drive.google.com/open?id=1exQu0AWnfcD8k7BOthGbGxERp_3voICj
-		- Proportion for Ion Torrent : https://drive.google.com/open?id=1_zETO4W1KScaK4TRxYo8gG1teFzcfoV3
+	- Identification for Illumina : https://drive.google.com/open?id=1KrAzIApnJVQjNdeYn5NYsuw0_Ib9naxp
+	- Identification for Ion Torrent : https://drive.google.com/open?id=1Eg0rbzHjEjyj9myhMeHPFK0V70e_PycV
+	- Proportion for Illumina : https://drive.google.com/open?id=1exQu0AWnfcD8k7BOthGbGxERp_3voICj
+	- Proportion for Ion Torrent : https://drive.google.com/open?id=1_zETO4W1KScaK4TRxYo8gG1teFzcfoV3
     
 	2. Extract the database index file.
 		
@@ -44,24 +44,22 @@ APD.py ver 1.0
 	
 		python APD.py
     
-  2. Select analysis. 
+  	2. Select analysis. 
 		
 		"database(identification or proportion):" --> Select the Analysis. (Example: identification)
     
-  3. Select Sequencing Platform (Current support Illumina, Ion torrent)
+  	3. Select Sequencing Platform (Current support Illumina, Ion torrent)
 		
 		"platform(illumina or ion_torrent):" --> Select the platform for the sequencing file.(Example: illumina)
     
-  4. Prefix of the Result file
+  	4. Prefix of the Result file
 		
 		"OUTPUT_FILE name:" --> Specify the prefix of output file name. (Example: Result_product_A)
     
-  5. Path of rawdata
+  	5. Path of rawdata
 		
 		"fastq_1 dir:" --> Select forward fastq file.(Example: probiotics_product_A_1.fastq)
-		
 		"fastq_2 dir:" --> Select reverse fastq file.(Example: probiotics_product_A_2.fastq)
-
 
 [Output format]
 	
