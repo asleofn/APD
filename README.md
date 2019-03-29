@@ -39,6 +39,7 @@ APD.py #ver 1.0
 		tar -zxvf 23_proportion_database_TMAP_index.tar.gz -C Database/proportion
 
 
+
 [Basic Usage]
 
 	1. Execute the pipeline.
@@ -61,6 +62,7 @@ APD.py #ver 1.0
 		
 		"fastq_1 dir:" --> Select forward fastq file.(Example: probiotics_product_A_1.fastq)
 		"fastq_2 dir:" --> Select reverse fastq file.(Example: probiotics_product_A_2.fastq)
+
 
 
 [Output format]
