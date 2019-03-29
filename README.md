@@ -2,7 +2,7 @@
 
 APD.py #ver 1.0
 
-[__Getting Started_ ]
+[__Getting Started__]
 
 	- This text file describes the source code of the pipeline for the detection of LAB in probiotic products.
 
