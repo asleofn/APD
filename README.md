@@ -83,7 +83,7 @@ This python script is developed for probiotic species detection from metagenomic
 	
 	...
 	
-	Column 1 : Representative strain of LAB
+	Column 1 : Representative genome of LAB
 	Column 2 : mapping coverage
 	
 	* mapping coverage > 0.7137, it is judged to be identified.
