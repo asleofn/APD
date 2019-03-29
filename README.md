@@ -1,6 +1,6 @@
 # APD (Advanced Probiotics species Detection)
 
-APD.py #ver 1.0
+This python script is developed for probiotic species detection from metagenomic sample using whole metagenome shotgun sequencing. This method using the read mapping coverage for species detection and representative genome sequence for each species and sub-species were selected based on all pairwise comparison of all available complete genomes for lactic acid generating bacteria.
 
 [__Getting Started__]
 
