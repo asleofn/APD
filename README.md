@@ -2,12 +2,12 @@
 
 APD.py #ver 1.0
 
-[ Getting Started ]
+[__Getting Started_ ]
 
 	- This text file describes the source code of the pipeline for the detection of LAB in probiotic products.
 
 
-[ Prerequisites ]
+[__Prerequisites__]
 
 	- python2	(https://www.python.org/)
 	- bowtie2	(http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
@@ -18,7 +18,7 @@ APD.py #ver 1.0
 	 # Executables of all program have to be added to System Path.
 	
   
-[ Installation ]
+[__Installation__]
 
 1. Download pre-builted index database.
 	
@@ -41,7 +41,7 @@ APD.py #ver 1.0
 
 
 
-[Basic Usage]
+[__Basic Usage__]
 
 	1. Execute the pipeline.
 	
@@ -66,7 +66,7 @@ APD.py #ver 1.0
 
 
 
-[Output format]
+[__Output format__]
 	
 	1.Identification
 		
