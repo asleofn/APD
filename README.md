@@ -91,4 +91,4 @@ This python script is developed for probiotic species detection from metagenomic
 	
 	2.Proportion
 	
-	The proportion can be calculated through the Result_product_A.genomecov file, see published artichle M&M for details.
+	The proportion can be calculated through the Result_product_A.genomecov file, see published article M&M for details.
